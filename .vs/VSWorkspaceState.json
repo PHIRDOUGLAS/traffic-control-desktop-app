@@ -6,7 +6,10 @@
     "\\traffic control desktop app\\TrafficControl.Backend",
     "\\traffic control desktop app\\TrafficControl.Backend\\Configuration",
     "\\traffic control desktop app\\TrafficControl.Backend\\Data",
-    "\\traffic control desktop app\\TrafficControl\\Services"
+    "\\traffic control desktop app\\TrafficControl\\Services",
+    "\\traffic control desktop app\\TrafficControl\\Services\\Detection",
+    "\\traffic control desktop app\\TrafficControl\\Services\\Evidence"
   ],
+  "SelectedNode": "\\traffic control desktop app\\TrafficControl\\Services\\CameraEnumerator.cs",
   "PreviewInSolutionExplorer": false
 }

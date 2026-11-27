@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "traffic control desktop app\\TrafficControl\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\phiri\\source\\repos\\traffic control desktop app\\traffic control desktop app\\TrafficControl\\MainWindow.xaml.cs",
               "RelativeToolTip": "traffic control desktop app\\TrafficControl\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAK0NAAAAAAAAAAAYwLENAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAALANAAAAAAAAAAAYwLENAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-05T18:59:26.7Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "traffic control desktop app\\TrafficControl\\Services\\VehicleDetectionService.cs",
               "ViewState": "AgIAANUAAAAAAAAAAAAkwKIBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T08:16:31.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-28T08:16:31.884Z"
             },
             {
               "$type": "Document",
